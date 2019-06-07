@@ -1,0 +1,16 @@
+{
+    "require": {
+        "codeception/codeception": "*",
+        "fzaninotto/faker": "*",
+        "fxp/composer-asset-plugin": "^1.4",
+        "yiisoft/yii2": "^2.0",
+        "yiisoft/yii2-gii": "^2.1",
+        "yiisoft/yii2-bootstrap": "~2.0.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
